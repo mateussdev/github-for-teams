@@ -57,7 +57,7 @@ Comando para checar branch remotas existentes(que ainda não estão local):
   git branch -a
 ```
 
-Comando para trazer as alterações do repositório online para o local:
+Comando para trazer as branch do repositório online para o local:
 ```bash
   git fetch
 ```
