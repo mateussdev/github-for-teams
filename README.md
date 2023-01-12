@@ -66,3 +66,8 @@ Comando para informar quais branch foram deletadas do repositório online:
 ```bash
   git fetch -p
 ```
+
+Comando para trazer as alterações do repositório online para o local
+```bash
+  git fetch -p
+```
